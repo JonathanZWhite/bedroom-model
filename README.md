@@ -5,5 +5,8 @@ Model of a bedroom. This project explores [MagicaVoxel](https://ephtracy.github.
 ### Wireframe
 ![screenshot](screenshots/wireframe-3.png)
 
+### Color
+![color](screenshots/color.png)
+
 ### Render
 ![render](screenshots/render.png)
